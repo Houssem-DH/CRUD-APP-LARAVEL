@@ -53,7 +53,7 @@ php artisan optimize
 
 to start server on localhost:8000
 ```bach 
-php artisan run
+php artisan serve
 ```
 
 
